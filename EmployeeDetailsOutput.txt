@@ -1,0 +1,56 @@
+Enter the total number of employee's :
+4
+Enter the name of the employee 1: 
+shantha
+Enter shantha current salary: 
+1234
+Enter the rating received for Q1: 
+1
+Enter the rating received for Q2: 
+4
+Enter the rating received for Q3: 
+6
+Enter the rating received for Q4: 
+8
+Enter the name of the employee 2: 
+Suraj
+Enter Suraj current salary: 
+6543
+Enter the rating received for Q1: 
+6
+Enter the rating received for Q2: 
+3
+Enter the rating received for Q3: 
+2
+Enter the rating received for Q4: 
+9
+Enter the name of the employee 3: 
+Sathish
+Enter Sathish current salary: 
+5006
+Enter the rating received for Q1: 
+6
+Enter the rating received for Q2: 
+5
+Enter the rating received for Q3: 
+7
+Enter the rating received for Q4: 
+7
+Enter the name of the employee 4: 
+Ramani
+Enter Ramani current salary: 
+9000
+Enter the rating received for Q1: 
+8
+Enter the rating received for Q2: 
+9
+Enter the rating received for Q3: 
+8
+Enter the rating received for Q4: 
+9
+Names             Q1   Q2   Q3   Q4   Overall Rating   Expected Salary  Performance    
+-----------------------------------------------------------------------------------
+Ramani             8    9    8    9   8.5              $9,765.00         BEST           
+Sathish            6    5    7    7   6.25             $5,318.88         AVERAGE        
+Suraj              6    3    2    9   5.0              $6,870.15         AVERAGE        
+shantha            1    4    6    8   4.75             $1,292.61         ON-TRACK    
