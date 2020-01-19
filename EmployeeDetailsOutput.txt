@@ -1,56 +1,56 @@
 Enter the total number of employee's :
 4
 Enter the name of the employee 1: 
-shantha
-Enter shantha current salary: 
-1234
+Saurav
+Enter Saurav current salary: 
+3000
 Enter the rating received for Q1: 
+5
+Enter the rating received for Q2: 
 1
-Enter the rating received for Q2: 
-4
 Enter the rating received for Q3: 
-6
+7
 Enter the rating received for Q4: 
-8
+9
 Enter the name of the employee 2: 
-Suraj
-Enter Suraj current salary: 
-6543
+Dravid
+Enter Dravid current salary: 
+9000
 Enter the rating received for Q1: 
-6
+4
 Enter the rating received for Q2: 
-3
+6
 Enter the rating received for Q3: 
-2
+8
 Enter the rating received for Q4: 
 9
 Enter the name of the employee 3: 
-Sathish
-Enter Sathish current salary: 
-5006
+Mahi
+Enter Mahi current salary: 
+1500
 Enter the rating received for Q1: 
-6
+4
 Enter the rating received for Q2: 
 5
 Enter the rating received for Q3: 
-7
+4
 Enter the rating received for Q4: 
-7
+5
 Enter the name of the employee 4: 
-Ramani
-Enter Ramani current salary: 
-9000
+Yuvaraj
+Enter Yuvaraj current salary: 
+988
 Enter the rating received for Q1: 
-8
+7
 Enter the rating received for Q2: 
-9
-Enter the rating received for Q3: 
 8
-Enter the rating received for Q4: 
+Enter the rating received for Q3: 
 9
+Enter the rating received for Q4: 
+7
 Names             Q1   Q2   Q3   Q4   Overall Rating   Expected Salary  Performance    
 -----------------------------------------------------------------------------------
-Ramani             8    9    8    9   8.5              $9,765.00         BEST           
-Sathish            6    5    7    7   6.25             $5,318.88         AVERAGE        
-Suraj              6    3    2    9   5.0              $6,870.15         AVERAGE        
-shantha            1    4    6    8   4.75             $1,292.61         ON-TRACK    
+Yuvaraj            7    8    9    7   7.75             $1,064.57         BEST           
+Dravid             4    6    8    9   6.75             $9,607.50         AVERAGE        
+Saurav             5    1    7    9   5.5              $3,165.00         AVERAGE        
+Mahi               4    5    4    5   4.5              $1,567.50         ON-TRACK       
